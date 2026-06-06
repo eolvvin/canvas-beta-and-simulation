@@ -2,6 +2,8 @@
 CLEAN CANVAS VISUALIZATION - FIXED
 Left: Charm mass + Beta convergence plots
 Right: 4-panel simulation results (fixed heatmap)
+Author: Edwin Ong
+Website: eolvvin.github.io
 """
 
 import numpy as np
